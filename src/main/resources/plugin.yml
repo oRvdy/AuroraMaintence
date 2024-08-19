@@ -1,5 +1,0 @@
-name: AuroraMaintence
-version: 1.0
-author: Ryverday
-description: Plugin para gerenciar mensagens e entrada de jogadores no servidor.
-main: com.ryverday.auroramc.Maintence
