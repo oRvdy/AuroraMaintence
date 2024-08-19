@@ -1,6 +1,6 @@
 # Plugin de Manuntenção BungeeCord
 
-O plugin `Maintence` é uma solução para gerenciar o modo de manutenção em servidores BungeeCord. Ele permite ativar ou desativar o modo de manutenção e gerenciar jogadores autorizados a acessar o servidor durante a manutenção.
+O plugin `AuroraMaintence` é uma solução para gerenciar o modo de manutenção em servidores BungeeCord. Ele permite ativar ou desativar o modo de manutenção e gerenciar jogadores autorizados a acessar o servidor durante a manutenção.
 
 ## Funcionalidades
 
